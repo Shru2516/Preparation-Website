@@ -1,0 +1,102 @@
+body {
+    background-color: #ffa781;
+}
+
+h1 {
+
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: #5b0e2d;
+    font-size: 55px;
+    color: #5b0e2d;
+}
+
+
+.info {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 226);
+    color: #5b0e2d;
+
+    font-size: large;
+    font-style: inherit;
+
+}
+
+.tmain {
+    background-color: rgb(255, 255, 226);
+}
+
+.logo {
+    border-radius: 50%;
+    height: 500px;
+    width: 550px;
+}
+
+
+
+.pattern {
+    background-color: #ffa781;
+    width: 800px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+
+}
+
+.hiring {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5b0e2d;
+    background-color: rgb(255, 255, 226);
+}
+
+h3 {
+    font-size: 40px;
+
+}
+
+h4 {
+    font-size: 30px;
+
+}
+
+h5 {
+    font-size: 25px;
+}
+
+ol {
+    list-style-position: inside;
+    font-size: 20px;
+}
+
+ul {
+    list-style-position: inside;
+
+}
+
+ul li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ol li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+.patTable td {
+    border: 1px solid;
+    width: 100px;
+    background-color: #ffe5e5;
+    width: 30%;
+    height: 40px;
+}
